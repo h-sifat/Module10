@@ -1,0 +1,160 @@
+body{
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.txt-center{
+  text-align: center;
+  font-weight: bold;
+  margin: 5% 0;
+}
+header{
+  background-color: #f1fff0;
+}
+.banner{
+  background-color: #f1fff0;
+  padding: 4% 0;
+  margin-bottom: 4%;
+}
+#orange-text{
+  color: orange;
+}
+#green-text{
+  color: green;
+}
+.box img{
+  width: 80px;
+  height: 90px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.box{
+  background-color: #f1fff0;
+  padding: 5%;
+  text-align: center;
+  height: auto;
+  border-radius: 4%;
+}
+.box:hover{
+  background-color: white;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.second-section{
+  margin-bottom: 10%;
+}
+
+.test-img{
+  padding: 0 0 1% 20%;
+}
+
+.testemonial{
+  margin: 4%;
+  margin-bottom: 6%;
+}
+.test-txt{
+  margin-left: 4%;
+}
+.card{
+  border: solid 18px white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  text-align: left;
+}
+.card-deck .card{
+  margin-bottom: 15px;
+}
+.card-body{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+.card-footer{
+  border: 0;
+  margin-top: 7%;
+  padding: 0;
+  margin-bottom: 0;
+  background-color: white;
+
+}
+.last-section{
+  background-color: rgb(40, 37, 49);
+  padding-top: 3%;
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+  padding-top: 5%;
+  margin: 0;
+}
+.footer{
+  margin-top: 3%;
+  padding-bottom: 7px;
+  text-align: center;
+}
+.footer p{
+  font-size: 14px;
+}
+.col-4 p{
+  margin: 0;
+  margin-block: 0;
+  font-size: smaller;
+  font-weight: lighter;
+}
+.col-5 p{
+  margin-top: 5%;
+}
+.bold{
+  font-weight: bold;
+}
+.categories img{
+  width: 100px;
+}
+.cat{
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.my-button{
+ background-color: #21b573;
+ border: 5px solid #21b573;
+ border-radius: 22px;
+ color: white;
+ padding: 0% 5%;
+}
+.small-text{
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  padding-left: 5px;
+  padding-top: 4%;
+  padding-bottom: 11px;
+  margin: 0;
+}
+.col-md-11{
+  padding: 0;
+  padding-left: 5px;
+  margin: 0;
+}
+.col-md-1{
+  padding: 0;
+  margin: 0;
+}
+.small-text-1{
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  padding-left: 10px;
+  padding-top: 7%;
+  padding-bottom: 5px;
+  margin: 0;
+}
+
+#last-sec{
+  background-color: #f1fff0;
+  text-align: center;
+  padding: 7% 20%;
+  border-radius: 12px;
+  margin-bottom: 5%;
+}
